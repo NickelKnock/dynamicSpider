@@ -1,3 +1,4 @@
+# I have lost my original purpose for making this thing, and now I just want it to woooork
 import sys
 import os
 import requests
